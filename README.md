@@ -16,7 +16,7 @@ By randomizing each 75-sample batch from the MNIST dataset, I achieved slightly 
 - Achieves up to 96% accuracy on MNIST  
 
 ## Dataset
-The model uses the [MNIST handwritten digits dataset](http://yann.lecun.com/exdb/mnist/), saved as `.npy` arrays:
+The model uses the [MNIST handwritten digits dataset](https://www.tensorflow.org/datasets/catalog/mnist), saved as `.npy` arrays:
 - `x_train.npy`, `y_train.npy`
 - `x_test.npy`, `y_test.npy`
 
